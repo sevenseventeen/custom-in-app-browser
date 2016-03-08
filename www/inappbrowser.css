@@ -41,7 +41,7 @@
 
 .inappbrowser-app-bar {
     height: 70px;
-    background-color: #404040;
+    background-color: #000000;
     z-index: 9999999;
 }
 
@@ -50,7 +50,7 @@
     height: 60px;
     width: 155px;
     margin: 0 auto;
-    background-color: #404040;
+    background-color: #FF3300;
     z-index: 9999999;
 }
 
